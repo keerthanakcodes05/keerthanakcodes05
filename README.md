@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keerthana Kandakatla
 
-### 💻 Computer Science Engineering — Data Science | Java Developer | AI & ML Enthusiast
+### 💻 Computer Science Engineering — Java, Python & AI & ML Enthusiast
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Keerthana%20Kandakatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
