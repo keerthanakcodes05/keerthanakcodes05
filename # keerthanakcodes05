@@ -1,186 +1,221 @@
-# 👋 Hi, I'm Keerthana K
+# 👋 Hi, I'm Keerthana Kandakatla
 
-### 💻 Computer Science Engineering — Data Science | Java & AI/ML Enthusiast
+### 💻 Computer Science Engineering — Data Science | Java Developer | AI & ML Enthusiast
 
-I'm a Computer Science Engineering student specializing in Data Science, passionate about **Java, Python, Artificial Intelligence, Machine Learning, and problem solving**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Keerthana%20Kandakatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-I enjoy building practical projects, learning through hands-on development, and continuously improving my programming and technical skills.
+<p align="center">
+  <a href="https://github.com/keerthanakcodes05">
+    <img src="https://komarev.com/ghpvc/?username=keerthanakcodes05&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/keerthanakcodes05?tab=followers">
+    <img src="https://img.shields.io/github/followers/keerthanakcodes05?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
+
+🎓 **B.Tech — Computer Science Engineering (Data Science)**
+
+💻 Interested in **Java Development, Data Science, Artificial Intelligence & Machine Learning**
+
+🚀 Building practical applications that combine software development with intelligent solutions.
+
+📚 Currently strengthening my problem-solving skills through **DSA and coding practice**.
+
+🎯 Focused on improving my skills for **software development and AI/ML opportunities**.
+
+---
+
+# 🛠️ Tech Stack
 
 ### ☕ Programming
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
 ### 🤖 AI & Data Science
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+</p>
 
-### 🗄️ Database & Development Tools
+### 🗄️ Database & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### 🧠 Core Concepts
-
-`Data Structures` • `OOP` • `DBMS` • `Machine Learning` • `Problem Solving`
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 1. Smart MediTrack AI
+## 🩺 Smart MediTrack AI
 
-A smart medication and family health management application designed to help users manage medicines, schedules, medication adherence, reminders, and health-related activities.
+> **AI-powered medication and family health management application**
 
-### ✨ Features
+### ✨ Key Features
 
-* 👨‍👩‍👧 Family member management
-* 💊 Medicine management
-* ⏰ Medication scheduling
-* 🔔 Smart medication reminders
+* 👨‍👩‍👧 Family member health management
+* 💊 Medicine and dosage management
+* ⏰ Smart medication scheduling
+* 🔔 Automated medication reminders
 * 📊 Medication adherence tracking
 * 📄 Compliance report generation
-* 📷 Prescription scanning
+* 📷 Prescription scanning and auto-fill
 * 🚨 Alerts and notifications
-* 📋 Medication history and activity tracking
-* 🔌 Real-time updates using WebSockets
-* 🔊 Voice-based functionality
+* 🎙️ Voice-based reminder functionality
+* 📈 Recent activity and health tracking
 
-### 🔧 Technologies
+### 🔧 Main Technologies
 
-`Java` `Python` `HTML` `CSS` `JavaScript` `MySQL` `WebSockets`
+`Java` `Python` `HTML` `CSS` `JavaScript` `MySQL`
 
 ---
 
-## 📄 2. AI Resume Parser & Candidate Screening System
+## 📄 AI Resume Parser & Candidate Screening System
 
-An AI-powered resume analysis application that extracts candidate information, evaluates resumes against job requirements, and helps rank candidates based on job fit.
+> **Intelligent resume analysis and candidate-job matching application**
 
-### ✨ Features
+### ✨ Key Features
 
 * 📤 Resume upload and parsing
-* 👤 Candidate information extraction
-* 🧠 Resume content analysis
-* 🎯 Job-fit analysis
+* 👤 Candidate management
+* 🧠 Resume section extraction
+* 🎯 Job Fit Analysis
 * 🏆 Candidate ranking
 * 📊 Resume analytics
 * 📈 Resume readiness scoring
-* 🔍 Skills and experience analysis
-* 📑 Candidate comparison
+* 🔍 Skill matching
+* 🤝 Semantic job-candidate matching
 
-### 🔧 Technologies
+### 🔧 Main Technologies
 
-`Python` `FastAPI` `NLP` `Machine Learning` `SQLAlchemy` `SQLite` `HTML` `CSS` `JavaScript`
-
-🔗 [View Resume Parser Project](https://github.com/keerthanakcodes05/ai-resume-parser)
+`Python` `FastAPI` `Machine Learning` `NLP` `spaCy` `Sentence Transformers` `scikit-learn` `MySQL`
 
 ---
 
-## 💼 3. Employee Salary Prediction
+## 💰 Employee Salary Prediction
 
-A machine learning project developed during my internship to predict employee salary based on relevant employee attributes.
+> **Machine Learning project developed during my internship**
 
 ### ✨ Highlights
 
 * 📊 Data preprocessing
 * 🧹 Data cleaning
-* 🔎 Exploratory data analysis
+* 📈 Exploratory data analysis
 * 🤖 Machine learning model development
-* 📈 Salary prediction
+* 🎯 Salary prediction based on employee attributes
 * 📉 Model evaluation
 
-### 🔧 Technologies
+### 🔧 Main Technologies
 
-`Python` `Machine Learning` `Pandas` `NumPy` `Scikit-learn`
+`Python` `Pandas` `NumPy` `scikit-learn` `Jupyter Notebook`
+
+---
+
+# 🧩 Coding & Problem Solving
+
+### 💡 LeetCode Focus
+
+<p>
+<img src="https://img.shields.io/badge/Arrays-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Strings-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashing-45B7D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sliding%20Window-96CEB4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Two%20Pointers-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary%20Search-6C5CE7?style=for-the-badge"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-* 💻 Regularly practice Data Structures and Algorithms on LeetCode.
-* 🏅 Participated in technical challenges and hackathons including **Adobe University Hackathon, Amazon, and Flipkart**.
-* 🤖 Developed practical projects in AI, Machine Learning, Data Science, and software development.
-* 🚀 Continuously improving programming and problem-solving skills through hands-on projects.
+✨ Participated in coding and innovation hackathons including:
+
+* 🟣 **Adobe University Hackathon**
+* 🟠 **Amazon Hackathon**
+* 🔵 **Flipkart Hackathon**
+
+💻 Consistently practicing Data Structures and Algorithms on LeetCode.
 
 ---
 
 # 📜 Certifications
 
-* 🤖 **IBM — AI Fundamentals**
-* ☕ **Oracle — Java Certification**
-* 💻 **Cisco Networking Academy — C**
-* 🌐 **Cambridge — English Certification**
+| Certification                | Organization             |
+| ---------------------------- | ------------------------ |
+| 🤖 **AI Fundamentals**       | IBM                      |
+| ☕ **Java Certification**     | Oracle                   |
+| 💻 **C Programming**         | Cisco Networking Academy |
+| 🌐 **English Certification** | Cambridge                |
 
 ---
 
-# 🧩 Problem Solving
+# 📊 GitHub Dashboard
 
-### 💻 LeetCode
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthanakcodes05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakcodes05&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+</p>
 
-Currently practicing:
-
-`Arrays` • `Strings` • `Hashing` • `Sliding Window` • `Two Pointers` • `Binary Search`
-
-I focus on understanding the logic and patterns behind problems while improving **time and space complexity analysis**.
-
----
-
-# 🎯 Currently
-
-🌱 Improving **Java & Data Structures**
-
-🤖 Building practical **AI/ML applications**
-
-📚 Strengthening **problem-solving skills**
-
-💼 Preparing for **software engineering opportunities**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keerthanakcodes05&theme=tokyonight&hide_border=true&border_radius=15" width="60%"/>
+</p>
 
 ---
 
-# 📊 GitHub Activity
+# 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keerthanakcodes05&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakcodes05&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+```text
+Java Development
+       ↓
+Data Structures & Algorithms
+       ↓
+Data Science
+       ↓
+Artificial Intelligence & Machine Learning
+       ↓
+Building Practical Projects
+```
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/keerthana-kandakatla-06394828a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/keerthanakcodes05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 💡 Learn • Build • Solve • Improve
+### 💜 Thanks for visiting my profile!
 
-✨ Thanks for visiting my profile! ✨
+**Building • Learning • Solving • Improving**
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</p>
