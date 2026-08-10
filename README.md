@@ -6,15 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Keerthana%20Kandakatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/keerthanakcodes05">
-    <img src="https://komarev.com/ghpvc/?username=keerthanakcodes05&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/keerthanakcodes05?tab=followers">
-    <img src="https://img.shields.io/github/followers/keerthanakcodes05?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me
