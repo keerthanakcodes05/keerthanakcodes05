@@ -130,19 +130,6 @@
 <img src="https://img.shields.io/badge/Binary%20Search-6C5CE7?style=for-the-badge"/>
 </p>
 
----
-
-# 🏆 Achievements
-
-✨ Participated in coding and innovation hackathons including:
-
-* 🟣 **Adobe University Hackathon**
-* 🟠 **Amazon Hackathon**
-* 🔵 **Flipkart Hackathon**
-
-💻 Consistently practicing Data Structures and Algorithms on LeetCode.
-
----
 
 # 📜 Certifications
 
